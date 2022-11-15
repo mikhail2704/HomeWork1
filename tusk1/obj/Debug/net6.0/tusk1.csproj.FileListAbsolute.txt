@@ -1,0 +1,15 @@
+D:\GB\Sen1\Sem1\tusk1\obj\Debug\net6.0\tusk1.csproj.AssemblyReference.cache
+D:\GB\Sen1\Sem1\tusk1\obj\Debug\net6.0\tusk1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\Sen1\Sem1\tusk1\obj\Debug\net6.0\tusk1.AssemblyInfoInputs.cache
+D:\GB\Sen1\Sem1\tusk1\obj\Debug\net6.0\tusk1.AssemblyInfo.cs
+D:\GB\Sen1\Sem1\tusk1\obj\Debug\net6.0\tusk1.csproj.CoreCompileInputs.cache
+D:\GB\Sen1\Sem1\tusk1\bin\Debug\net6.0\tusk1.exe
+D:\GB\Sen1\Sem1\tusk1\bin\Debug\net6.0\tusk1.deps.json
+D:\GB\Sen1\Sem1\tusk1\bin\Debug\net6.0\tusk1.runtimeconfig.json
+D:\GB\Sen1\Sem1\tusk1\bin\Debug\net6.0\tusk1.dll
+D:\GB\Sen1\Sem1\tusk1\bin\Debug\net6.0\tusk1.pdb
+D:\GB\Sen1\Sem1\tusk1\obj\Debug\net6.0\tusk1.dll
+D:\GB\Sen1\Sem1\tusk1\obj\Debug\net6.0\refint\tusk1.dll
+D:\GB\Sen1\Sem1\tusk1\obj\Debug\net6.0\tusk1.pdb
+D:\GB\Sen1\Sem1\tusk1\obj\Debug\net6.0\tusk1.genruntimeconfig.cache
+D:\GB\Sen1\Sem1\tusk1\obj\Debug\net6.0\ref\tusk1.dll
