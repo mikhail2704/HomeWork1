@@ -1,0 +1,15 @@
+D:\GB\Sen1\Sem1\tusk4\bin\Debug\net6.0\tusk4.exe
+D:\GB\Sen1\Sem1\tusk4\bin\Debug\net6.0\tusk4.deps.json
+D:\GB\Sen1\Sem1\tusk4\bin\Debug\net6.0\tusk4.runtimeconfig.json
+D:\GB\Sen1\Sem1\tusk4\bin\Debug\net6.0\tusk4.dll
+D:\GB\Sen1\Sem1\tusk4\bin\Debug\net6.0\tusk4.pdb
+D:\GB\Sen1\Sem1\tusk4\obj\Debug\net6.0\tusk4.csproj.AssemblyReference.cache
+D:\GB\Sen1\Sem1\tusk4\obj\Debug\net6.0\tusk4.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\Sen1\Sem1\tusk4\obj\Debug\net6.0\tusk4.AssemblyInfoInputs.cache
+D:\GB\Sen1\Sem1\tusk4\obj\Debug\net6.0\tusk4.AssemblyInfo.cs
+D:\GB\Sen1\Sem1\tusk4\obj\Debug\net6.0\tusk4.csproj.CoreCompileInputs.cache
+D:\GB\Sen1\Sem1\tusk4\obj\Debug\net6.0\tusk4.dll
+D:\GB\Sen1\Sem1\tusk4\obj\Debug\net6.0\refint\tusk4.dll
+D:\GB\Sen1\Sem1\tusk4\obj\Debug\net6.0\tusk4.pdb
+D:\GB\Sen1\Sem1\tusk4\obj\Debug\net6.0\tusk4.genruntimeconfig.cache
+D:\GB\Sen1\Sem1\tusk4\obj\Debug\net6.0\ref\tusk4.dll
